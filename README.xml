@@ -1,61 +1,49 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="meuguia.tv">
-  <channels>
-    <channel update="i" site="meuguia.tv" site_id="canal/HTV" xmltv_id="HTV [Brazil]">HTV [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TGC" xmltv_id="The Golf Channel [Brazil]">The Golf Channel [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/FNE" xmltv_id="Fox News [Brazil]">Fox News [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="Band News [Brazil]">Band News [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/C21" xmltv_id="Canal 21 [Brazil]">Canal 21 [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/MXE" xmltv_id="Max [Brazil]">Max [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="Rede TV [Brazil]">Rede TV [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SRD" xmltv_id="Rede Super de Televisão [Brazil]">Rede Super de Televisão [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="Telecine Cult [Brazil]">Telecine Cult [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/REC" xmltv_id="Record [Brazil]">Record [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="Band Esportes [Brazil]">Band Esportes [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SEN" xmltv_id="TV Senado [Brazil]">TV Senado [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/CAM" xmltv_id="TV Câmara [Brazil]">TV Câmara [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SPO" xmltv_id="SporTV [Brazil]">SporTV [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/USA" xmltv_id="Universal [Brazil]">Universal [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO [Brazil]">HBO [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/ESB" xmltv_id="ESPN Brasil [Brazil]">ESPN Brasil [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TCM" xmltv_id="TCM - Turner Classic Movies [Brazil]">TCM - Turner Classic Movies [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/BIT" xmltv_id="Bloomberg [Brazil]">Bloomberg [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="Multishow [Brazil]">Multishow [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/EUR" xmltv_id="Eurochannel [Brazil]">Eurochannel [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="MGM [Brazil]">MGM [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="Combate [Brazil]">Combate [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="Warner Channel [Brazil]">Warner Channel [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/WBH" xmltv_id="Warner Channel HD [Brazil]">Warner Channel HD [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="Telecine Premium [Brazil]">Telecine Premium [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TCH" xmltv_id="Telecine Premuim HD [Brazil]">Telecine Premuim HD [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 [Brazil]">HBO 2 [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/CBR" xmltv_id="Canal Brasil [Brazil]">Canal Brasil [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/MPE" xmltv_id="Max Prime *e [Brazil]">Max Prime *e [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="Lifetime [Brazil]">Lifetime [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT [Brazil]">SBT [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TVU" xmltv_id="TV União [Brazil]">TV União [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/DXD" xmltv_id="Disney XD [Brazil]">Disney XD [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TCO" xmltv_id="TV Corinthians [Brazil]">TV Corinthians [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/CCL" xmltv_id="Casa Club TV [Brazil]">Casa Club TV [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GAZ" xmltv_id="TV Gazeta [Brazil]">TV Gazeta [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="Telecine Touch [Brazil]">Telecine Touch [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/T2H" xmltv_id="Telecine Action HD [Brazil]">Telecine Action HD [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="Telecine Action [Brazil]">Telecine Action [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/RAI" xmltv_id="RAI International [Brazil]">RAI International [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/121" xmltv_id="PremiereFC [Brazil]">PremiereFC [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GBG" xmltv_id="Globo - TV Anhanguera Goiás [Brazil]">Globo - TV Anhanguera Goiás [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GBB" xmltv_id="Globo - Rede Bahia [Brazil]">Globo - Rede Bahia [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/POA" xmltv_id="Globo - Porto Alegre [Brazil]">Globo - Porto Alegre [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/FHD" xmltv_id="Fox HD [Brazil]">Fox HD [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GRC" xmltv_id="Globo - EPTV Campinas [Brazil]">Globo - EPTV Campinas [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GRD" xmltv_id="TV Globo [Brazil]">TV Globo [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="Globo - Rio de Janeiro [Brazil]">Globo - Rio de Janeiro [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GSP" xmltv_id="Globo - São Paulo [Brazil]">Globo - São Paulo [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GRP" xmltv_id="Globo - EPTV Ribeirão Preto [Brazil]">Globo - EPTV Ribeirão Preto [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GHB" xmltv_id="Globo - Brasília [Brazil]">Globo - Brasília [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/FAS" xmltv_id="Glitz* [Brazil]">Glitz* [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/GBM" xmltv_id="Globo - Minas Gerais [Brazil]">Globo - Minas Gerais [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS [Brazil]">TBS [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SAT" xmltv_id="i-Sat [Brazil]">i-Sat [Brazil]</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/SHO" xmltv_id="Shoptime [Brazil]">Shoptime [Brazil]</channel>
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="cnn">
+<display-name lang="pt">CNN Brasil</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="cnn HD">
+<display-name lang="pt">CNN Brasil HD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="cnn FHD">
+<display-name lang="pt">CNN Brasil FHD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN">
+<display-name lang="pt">ESPN</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN HD">
+<display-name lang="pt">ESPN HD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN FHD">
+<display-name lang="pt">ESPN FHD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN2">
+<display-name lang="pt">ESPN 2</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN2 hd">
+<display-name lang="pt">ESPN 2 HD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN2 Fhd">
+<display-name lang="pt">ESPN 2 FHD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN Brasil">
+<display-name lang="pt">ESPN Brasil</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN Brasil hd">
+<display-name lang="pt">ESPN Brasil HD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
+<channel id="ESPN Brasil Fhd">
+<display-name lang="pt">ESPN Brasil FHD</display-name>
+<url>http://www.meuguia.tv</url>
+</channel>
